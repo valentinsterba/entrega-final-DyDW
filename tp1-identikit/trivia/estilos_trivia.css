@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(5, 137, 181);
+}
+
+#seccion-juego {
+    text-align: center;
+}
+
+#imagen-thsc {
+    height: 500px;
+}
+
+.imagen-opcion {
+    height: 320px;
+    width: 250px;
+}

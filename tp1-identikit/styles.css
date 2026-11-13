@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Young+Serif&display=swap');
+
+#cuerpo-tablas {
+    background-color: blue;
+}
+
+ul {
+    list-style: square;
+}
+
+ol,
+ul {
+    background-color: gray;
+}
+
+#te-esperamos {
+    background-color: orange;
+}
+
+#destinos {
+    background-color: lime;
+}
+
+#div-principal {
+    background-color: red;
+    width: 1000px;
+    font-size: 2rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.div-secundario {
+    background-color: green;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#img-sobremi-der {
+    width: 200px;
+    float: right;
+}
+
+#img-sobremi-izq {
+    width: 200px;
+    float: left;
+}
+
+.parrafo-sobremi {
+    color: darkgray;
+}
+
+#cuerpo-sobremi {
+    background-color: gray;
+}
+
+#seccion-sobremi {
+    background-color: orange;
+    width: 75%;
+    margin: 0 auto;
+}
+
+#heading-sobremi {
+    text-align: center;
+}
+
+#cuerpo-tablas, #celdaFondo {
+    background-color: lime;
+}
+
+#cuerpo-listas {
+    background-color: blue;
+}
+
+.imagen {
+    width: 200px;
+}
+
+table {
+    text-align: center;
+}
+
+#finalesTHSC {
+    font-size: 1.5rem;
+    border-collapse: collapse;
+}
+
+#finalesTHSC td,
+#finalesTHSC th {
+    border: 7px inset black;
+}
+
+#filaItA {
+    background-color: red;
+}
+
+.columnaFtC {
+    background-color: gray;
+}
+
+#cabeceraTabla {
+    background-color: blue;
+}
+
+h1, h2, h3, a {
+    font-family: "Press Start 2P", sans-serif;
+}
+
+div, p, table, ul a, ol a {
+    font-family: "Young Serif", serif;
+}
+
+nav ul {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+
+nav a {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+nav li:hover{
+    background-color: orange;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}

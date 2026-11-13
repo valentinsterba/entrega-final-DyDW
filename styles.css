@@ -1,0 +1,38 @@
+body {
+    background-color: aqua;
+}
+
+#contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+#principal {
+    background-color: blue;
+    text-align: center;
+    width: 35vw;
+    height: 100vh;
+    border-radius: 25px;
+}
+
+img {
+    margin-top: 20px;
+}
+
+#enlaces {
+    display: flex;
+    justify-content: center;
+}
+
+#lista-enlaces {
+    list-style: none;
+    padding: 0;
+}
+
+.enlace {
+    background-color: lime;
+    width: 25vw;
+    height: 7vh;
+    margin-top: 25px;
+    border-radius: 10px;
+}
